@@ -5,6 +5,7 @@ if(!file_exists($path)) {
 }
 
 $keywords = array(
+  array('建設', '建築'),
   array('婦聯會'),
   array('救國團'),
   array('獅子會', '扶輪'),
